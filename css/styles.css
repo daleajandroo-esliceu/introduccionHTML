@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(255, 251, 0);
+}
+
+h1{
+    text-align: center;
+    color: purple;
+}
+
+table{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th{
+    background-color: blueviolet;
+    color: azure;
+    font-weight: bold;
+    font-style: italic;
+    border: 1px;
+}
+
+.hora{
+    background-color: blueviolet;
+    color: yellow;
+    font-weight: bold;
+    width: 120px;
+}
+
+.pati{
+    background-color: #007bff;
+    text-transform: uppercase;
+}
+
+.serveis{
+    background-color: #0011ff;
+    font-size: 20px;
+}
+
+.seguretat{
+    background-color: rgb(202, 130, 243);
+    font-size: 20px;
+}
+.pi{
+    background-color: blanchedalmond;
+    font-size: 20px;
+}
+
+.sox{
+    background-color: rgb(172, 53, 53);
+    font-size: 20px;
+}
+.aw{
+    background-color: orange;
+    font-size: 20px;
+
+}
+.pro{
+    background-color: rgb(212, 195, 118);
+    font-size: 20px;
+
+}
+
+.ipo{
+    background-color: bisque;
+    font-size: 20px;
+
+}
+
+.sos{
+    background-color: aquamarine;
+    font-size: 20px;
+
+}
