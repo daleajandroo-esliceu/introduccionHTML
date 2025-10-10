@@ -80,3 +80,24 @@ th{
     font-size: 20px;
 
 }
+
+.leyenda {
+            width: 1000px;
+            margin: 30px auto;
+            display: flex;
+            justify-content: center;
+          
+        }
+
+        .cuadro {
+            
+        
+            display: flex;
+            align-items: center;
+            padding: 6px 10px;
+            font-weight: bold;
+            margin: 10px;
+            border: 2px solid black;
+        }
+
+        
